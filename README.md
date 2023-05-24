@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandun Srimal</h1>
+
 <h3 align="center">A passionate Web and Mobile developer from Sri Lanka</h3>
+
+[![An image of @sandunsrimal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandunsrimal)](https://holopin.io/@sandunsrimal)
 
 - 📫 How to reach me **sandunsrimal7@gmail.com**
 
