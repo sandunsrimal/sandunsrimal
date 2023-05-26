@@ -19,3 +19,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sandunsrimw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandunsrimw" /></a></p><br><br>
+
+### Stats
+
+![Overview Card](https://raw.githubusercontent.com/sandunsrimal/git-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Overview Card](https://raw.githubusercontent.com/sandunsrimal/git-stats/master/generated/overview.svg#gh-light-mode-only)
+![Stats Card](https://raw.githubusercontent.com/sandunsrimal/git-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Card](https://raw.githubusercontent.com/sandunsrimal/git-stats/master/generated/languages.svg#gh-light-mode-only)
